@@ -1,0 +1,5 @@
+<resources>
+    <string name="love_text">WelCome to My Project</string>come
+    <string name="change_language">Change language</string>
+    <string name="app_name">language_switch( login_registration)</string>
+</resources>
