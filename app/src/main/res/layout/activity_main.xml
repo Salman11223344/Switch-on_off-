@@ -90,7 +90,12 @@
                 android:paddingTop="6dp"
                 android:text="New User? Register"
                 android:textSize="22sp" />
+<Button
+    android:id="@+id/click"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
 
+</Button>
         </LinearLayout>
 
     </ScrollView>

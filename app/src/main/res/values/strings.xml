@@ -2,4 +2,6 @@
     <string name="love_text">WelCome to My Project</string>come
     <string name="change_language">Change language</string>
     <string name="app_name">language_switch( login_registration)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

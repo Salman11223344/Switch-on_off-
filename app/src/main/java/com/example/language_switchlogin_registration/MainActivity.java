@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
         etLoginPassword = findViewById(R.id.etLoginPassword);
         loginButton = findViewById(R.id.btnLogin);
 
+
+
         loginButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -69,5 +71,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
     }
+
+
 }
